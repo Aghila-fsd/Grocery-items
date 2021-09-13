@@ -1,0 +1,85 @@
+{
+    "product":[
+{
+    "SiNo":"1",
+    "Item":"apple",
+    "Quantity":"1",
+    "Unit":"kg",
+    "Department":"Fruits",
+    "Notes":"Crunchy"
+},
+{
+    "SiNo":"2",
+    "Item":"Orange",
+    "Quantity":"1",
+    "Unit":"kg",
+    "Department":"Fruits",
+    "Notes":"Sweet"
+},  
+{
+"SiNo":"3",
+"Item":"Onion",
+"Quantity":"2",
+"Unit":"kg",
+"Department":"Vegetables",
+"Notes":"Red Medium"
+},
+{
+"SiNo":"4",
+"Item":"Carrots",
+"Quantity":"2",
+"Unit":"kg",
+"Department":"Vegetables",
+"Notes":"Orange medium"
+},
+{
+"SiNo":"5",
+"Item":"oil",
+"Quantity":"1",
+"Unit":"kg",
+"Department":"Oil &Ghee",
+"Notes":"Oil"
+},
+{
+
+"SiNo":"6",
+"Item":"Rice",
+"Quantity":"5",
+"Unit":"kg",
+"Department":"Rice",
+"Notes":"Matta"
+},
+{
+"SiNo":"7",
+"Item":"Thuvaar Daal",
+"Quantity":"2",
+"Unit":"kg",
+"Department":"Pulses",
+"Notes":"Organic"
+},
+{
+"SiNo":"8",
+"Item":"Moong Daal",
+"Quantity":"1",
+"Unit":"kg",
+"Department":"Pulses",
+"Notes":"Organic medium"
+},
+{
+"SiNo":"9",
+"Item":"cake mix",
+"Quantity":"1",
+"Unit":"pck",
+"Department":"Baking Essentials",
+"Notes":"Crust&crumb"
+},
+{
+"SiNo":"10",
+"Item":"Egg",
+"Quantity":"1",
+"Unit":"Dz",
+"Department":"Egg",
+"Notes":"Chicken egg"
+}
+]
+}
